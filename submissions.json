@@ -1421,6 +1421,24 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF78073826": {
+    "contest_id": 1313,
+    "language": "GNU C++14",
+    "path": "codeforces\\1313\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fast Food Restaurant",
+    "problem_url": "https://codeforces.com/contest/1313/problem/A",
+    "submission_id": "CF78073826",
+    "submission_url": "https://codeforces.com/contest/1313/submission/78073826",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/26/2020 06:14"
+  },
   "CF78074063": {
     "contest_id": 1313,
     "language": "GNU C++14",
