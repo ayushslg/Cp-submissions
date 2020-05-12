@@ -1421,6 +1421,25 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF79790028": {
+    "contest_id": 1305,
+    "language": "GNU C++14",
+    "path": "codeforces\\1305\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Kuroni and Impossible Calculation",
+    "problem_url": "https://codeforces.com/contest/1305/problem/C",
+    "submission_id": "CF79790028",
+    "submission_url": "https://codeforces.com/contest/1305/submission/79790028",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/12/2020 06:08"
+  },
   "CF79827786": {
     "contest_id": 1350,
     "language": "GNU C++14",
