@@ -1421,6 +1421,26 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF80657722": {
+    "contest_id": 1304,
+    "language": "GNU C++14",
+    "path": "codeforces\\1304\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Longest Palindrome",
+    "problem_url": "https://codeforces.com/contest/1304/problem/B",
+    "submission_id": "CF80657722",
+    "submission_url": "https://codeforces.com/contest/1304/submission/80657722",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "May/19/2020 11:18"
+  },
   "CF80658554": {
     "contest_id": 1304,
     "language": "GNU C++14",
