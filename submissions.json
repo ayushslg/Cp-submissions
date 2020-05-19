@@ -1421,6 +1421,23 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF80679893": {
+    "contest_id": 608,
+    "language": "GNU C++14",
+    "path": "codeforces\\608\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Saitama Destroys Hotel",
+    "problem_url": "https://codeforces.com/contest/608/problem/A",
+    "submission_id": "CF80679893",
+    "submission_url": "https://codeforces.com/contest/608/submission/80679893",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/19/2020 16:32"
+  },
   "CF80759880": {
     "contest_id": 1344,
     "language": "GNU C++14",
