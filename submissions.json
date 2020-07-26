@@ -1,4 +1,20 @@
 {
+  "AC15462336": {
+    "contest_id": "abc170",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc170\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Forbidden List",
+    "problem_url": "https://atcoder.jp/contests/abc170/tasks/abc170_c",
+    "submission_id": "AC15462336",
+    "submission_url": "https://atcoder.jp/contests/abc170/submissions/15462336",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/26/2020 07:46"
+  },
   "AC15462902": {
     "contest_id": "abc170",
     "language": "C++ (GCC 9.2.1)",
