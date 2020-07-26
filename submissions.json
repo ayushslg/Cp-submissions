@@ -1,4 +1,20 @@
 {
+  "AC15461876": {
+    "contest_id": "abc171",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder\\abc171\\F.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Strivore",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_f",
+    "submission_id": "AC15461876",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/15461876",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jul/26/2020 07:09"
+  },
   "AC15462215": {
     "contest_id": "abc170",
     "language": "C++ (GCC 9.2.1)",
