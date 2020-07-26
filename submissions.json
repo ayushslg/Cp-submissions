@@ -1,4 +1,20 @@
 {
+  "AC15461057": {
+    "contest_id": "abc171",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc171\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Mix Juice",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_b",
+    "submission_id": "AC15461057",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/15461057",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/26/2020 05:48"
+  },
   "AC15461690": {
     "contest_id": "abc171",
     "language": "C++ (GCC 9.2.1)",
