@@ -1,4 +1,20 @@
 {
+  "AC17079397": {
+    "contest_id": "abc122",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc122\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "GeT AC",
+    "problem_url": "https://atcoder.jp/contests/abc122/tasks/abc122_c",
+    "submission_id": "AC17079397",
+    "submission_url": "https://atcoder.jp/contests/abc122/submissions/17079397",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/28/2020 10:47"
+  },
   "AC17104107": {
     "contest_id": "abc092",
     "language": "C++ (GCC 9.2.1)",
