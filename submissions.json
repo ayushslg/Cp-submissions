@@ -1,4 +1,20 @@
 {
+  "AC17104107": {
+    "contest_id": "abc092",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc092\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Traveling Plan",
+    "problem_url": "https://atcoder.jp/contests/abc092/tasks/arc093_a",
+    "submission_id": "AC17104107",
+    "submission_url": "https://atcoder.jp/contests/abc092/submissions/17104107",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/29/2020 23:14"
+  },
   "AC17139670": {
     "contest_id": "abc094",
     "language": "C++ (GCC 9.2.1)",
