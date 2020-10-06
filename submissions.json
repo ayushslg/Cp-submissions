@@ -1,4 +1,20 @@
 {
+  "AC17227235": {
+    "contest_id": "abc115",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc115\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Christmas Eve",
+    "problem_url": "https://atcoder.jp/contests/abc115/tasks/abc115_c",
+    "submission_id": "AC17227235",
+    "submission_url": "https://atcoder.jp/contests/abc115/submissions/17227235",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/07/2020 00:13"
+  },
   "AC17270489": {
     "contest_id": "abc123",
     "language": "C++ (GCC 9.2.1)",
