@@ -1,4 +1,20 @@
 {
+  "AC18418968": {
+    "contest_id": "abc154",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc154\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Remaining Balls",
+    "problem_url": "https://atcoder.jp/contests/abc154/tasks/abc154_a",
+    "submission_id": "AC18418968",
+    "submission_url": "https://atcoder.jp/contests/abc154/submissions/18418968",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/26/2020 16:39"
+  },
   "AC18418981": {
     "contest_id": "abc154",
     "language": "C++ (GCC 9.2.1)",
