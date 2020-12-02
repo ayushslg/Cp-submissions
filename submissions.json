@@ -1,4 +1,20 @@
 {
+  "AC18529821": {
+    "contest_id": "jsc2019-qual",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\jsc2019-qual\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Cell Inversion",
+    "problem_url": "https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_c",
+    "submission_id": "AC18529821",
+    "submission_url": "https://atcoder.jp/contests/jsc2019-qual/submissions/18529821",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/02/2020 16:01"
+  },
   "AC18568071": {
     "contest_id": "arc081",
     "language": "C++ (GCC 9.2.1)",
