@@ -1,4 +1,20 @@
 {
+  "AC18618078": {
+    "contest_id": "arc085",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc085\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "HSI",
+    "problem_url": "https://atcoder.jp/contests/arc085/tasks/arc085_a",
+    "submission_id": "AC18618078",
+    "submission_url": "https://atcoder.jp/contests/arc085/submissions/18618078",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/06/2020 19:33"
+  },
   "AC18653409": {
     "contest_id": "keyence2020",
     "language": "C++ (GCC 9.2.1)",
