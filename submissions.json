@@ -1,4 +1,20 @@
 {
+  "AC18608958": {
+    "contest_id": "tenka1-2017",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\tenka1-2017\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "4/N",
+    "problem_url": "https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_c",
+    "submission_id": "AC18608958",
+    "submission_url": "https://atcoder.jp/contests/tenka1-2017/submissions/18608958",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/06/2020 11:13"
+  },
   "AC18618078": {
     "contest_id": "arc085",
     "language": "C++ (GCC 9.2.1)",
