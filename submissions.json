@@ -1,4 +1,20 @@
 {
+  "AC18659267": {
+    "contest_id": "arc099",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc099\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Minimization",
+    "problem_url": "https://atcoder.jp/contests/arc099/tasks/arc099_a",
+    "submission_id": "AC18659267",
+    "submission_url": "https://atcoder.jp/contests/arc099/submissions/18659267",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/09/2020 19:00"
+  },
   "AC18659911": {
     "contest_id": "arc099",
     "language": "C++ (GCC 9.2.1)",
