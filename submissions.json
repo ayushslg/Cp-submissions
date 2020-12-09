@@ -1,4 +1,20 @@
 {
+  "AC18659911": {
+    "contest_id": "arc099",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc099\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Snuke Numbers",
+    "problem_url": "https://atcoder.jp/contests/arc099/tasks/arc099_b",
+    "submission_id": "AC18659911",
+    "submission_url": "https://atcoder.jp/contests/arc099/submissions/18659911",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/09/2020 19:29"
+  },
   "AC18693894": {
     "contest_id": "abc169",
     "language": "C++ (GCC 9.2.1)",
