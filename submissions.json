@@ -1,4 +1,23 @@
 {
+  "CF105816210": {
+    "contest_id": 1478,
+    "language": "GNU C++14",
+    "path": "codeforces\\1478\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nezzar and Lucky Number",
+    "problem_url": "https://codeforces.com/contest/1478/problem/B",
+    "submission_id": "CF105816210",
+    "submission_url": "https://codeforces.com/contest/1478/submission/105816210",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/29/2021 13:05"
+  },
   "CF106260458": {
     "contest_id": 1132,
     "language": "GNU C++14",
