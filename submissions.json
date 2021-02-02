@@ -1,4 +1,21 @@
 {
+  "CF106261046": {
+    "contest_id": 1132,
+    "language": "GNU C++14",
+    "path": "codeforces\\1132\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Discounts",
+    "problem_url": "https://codeforces.com/contest/1132/problem/B",
+    "submission_id": "CF106261046",
+    "submission_url": "https://codeforces.com/contest/1132/submission/106261046",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Feb/02/2021 14:04"
+  },
   "CF106264945": {
     "contest_id": 1132,
     "language": "GNU C++14",
