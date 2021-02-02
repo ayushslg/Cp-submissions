@@ -1,4 +1,20 @@
 {
+  "CF106264945": {
+    "contest_id": 1132,
+    "language": "GNU C++14",
+    "path": "codeforces\\1132\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Painting the Fence",
+    "problem_url": "https://codeforces.com/contest/1132/problem/C",
+    "submission_id": "CF106264945",
+    "submission_url": "https://codeforces.com/contest/1132/submission/106264945",
+    "tags": [
+      "brute force",
+      "*1700"
+    ],
+    "timestamp": "Feb/02/2021 14:52"
+  },
   "CF106456255": {
     "contest_id": 1070,
     "language": "GNU C++14",
