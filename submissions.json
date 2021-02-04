@@ -1,4 +1,20 @@
 {
+  "CF106456255": {
+    "contest_id": 1070,
+    "language": "GNU C++14",
+    "path": "codeforces\\1070\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Debate",
+    "problem_url": "https://codeforces.com/contest/1070/problem/F",
+    "submission_id": "CF106456255",
+    "submission_url": "https://codeforces.com/contest/1070/submission/106456255",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Feb/04/2021 18:39"
+  },
   "CF106749949": {
     "contest_id": 1480,
     "language": "GNU C++14",
