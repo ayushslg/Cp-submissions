@@ -30,7 +30,7 @@ inline void solve()
 {
     ll a,b;
     cin>>a>>b;
-    ll g=__gcd(a,b);
+    ll g=gcd(a,b);
     ll ans=1;
     for(ll i=2;i*i<=g;i++)
     {
