@@ -1,4 +1,20 @@
 {
+  "AC20739586": {
+    "contest_id": "abc194",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc194\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Squared Error",
+    "problem_url": "https://atcoder.jp/contests/abc194/tasks/abc194_c",
+    "submission_id": "AC20739586",
+    "submission_url": "https://atcoder.jp/contests/abc194/submissions/20739586",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/06/2021 23:14"
+  },
   "AC20854956": {
     "contest_id": "abc153",
     "language": "C++ (GCC 9.2.1)",
