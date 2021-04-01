@@ -1,4 +1,22 @@
 {
+  "CF111726076": {
+    "contest_id": 1505,
+    "language": "GNU C++14",
+    "path": "codeforces\\1505\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "DMCA",
+    "problem_url": "https://codeforces.com/contest/1505/problem/B",
+    "submission_id": "CF111726076",
+    "submission_url": "https://codeforces.com/contest/1505/submission/111726076",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Apr/01/2021 22:24"
+  },
   "CF111983680": {
     "contest_id": 1510,
     "language": "GNU C++17",
