@@ -1,4 +1,20 @@
 {
+  "CF120614286": {
+    "contest_id": 1532,
+    "language": "Kotlin",
+    "path": "codeforces\\1532\\D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Teams Forming",
+    "problem_url": "https://codeforces.com/contest/1532/problem/D",
+    "submission_id": "CF120614286",
+    "submission_url": "https://codeforces.com/contest/1532/submission/120614286",
+    "tags": [
+      "*special problem",
+      "sortings"
+    ],
+    "timestamp": "Jun/26/2021 00:20"
+  },
   "CF120664926": {
     "contest_id": 550,
     "language": "GNU C++17",
