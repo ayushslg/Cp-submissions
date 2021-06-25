@@ -1,4 +1,20 @@
 {
+  "CF120611701": {
+    "contest_id": 1532,
+    "language": "Kotlin",
+    "path": "codeforces\\1532\\B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Frog Jumping",
+    "problem_url": "https://codeforces.com/contest/1532/problem/B",
+    "submission_id": "CF120611701",
+    "submission_url": "https://codeforces.com/contest/1532/submission/120611701",
+    "tags": [
+      "*special problem",
+      "math"
+    ],
+    "timestamp": "Jun/25/2021 23:52"
+  },
   "CF120614286": {
     "contest_id": 1532,
     "language": "Kotlin",
