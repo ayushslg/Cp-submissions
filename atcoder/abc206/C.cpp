@@ -22,7 +22,7 @@ inline void solve()
     ll n;
     cin >> n;
     multiset<ll>mt;
-    unordered_map<ll, ll>mp;
+    map<ll, ll>mp;
     vll a(n);
     f(n)
     {
