@@ -1,4 +1,20 @@
 {
+  "AC24033655": {
+    "contest_id": "agc054",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc054\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Remove Substrings",
+    "problem_url": "https://atcoder.jp/contests/agc054/tasks/agc054_a",
+    "submission_id": "AC24033655",
+    "submission_url": "https://atcoder.jp/contests/agc054/submissions/24033655",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/06/2021 21:04"
+  },
   "AC24069055": {
     "contest_id": "abc117",
     "language": "C++ (GCC 9.2.1)",
