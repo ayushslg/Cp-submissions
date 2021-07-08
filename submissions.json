@@ -1,4 +1,20 @@
 {
+  "AC24069055": {
+    "contest_id": "abc117",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc117\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Entrance Examination",
+    "problem_url": "https://atcoder.jp/contests/abc117/tasks/abc117_a",
+    "submission_id": "AC24069055",
+    "submission_url": "https://atcoder.jp/contests/abc117/submissions/24069055",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/08/2021 23:58"
+  },
   "AC24085706": {
     "contest_id": "arc111",
     "language": "C++ (GCC 9.2.1)",
