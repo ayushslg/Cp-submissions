@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-192 | [B - Maritozzo](https://atcoder.jp/contests/abc219/tasks/abc219_b) | [C++ (GCC 9.2.1)](./atcoder/abc219/B.cpp) | `AtCoder` `*200` | Sep/19/2021 23:47 | 
-191 | [B - Hills And Valleys](https://codeforces.com/contest/1467/problem/B) | [GNU C++14](./codeforces/1467/B.cpp) | `brute force` `implementation` `*1700` | Sep/18/2021 03:26 | 
-190 | [E - Sorting Queries](https://atcoder.jp/contests/abc217/tasks/abc217_e) | [C++ (GCC 9.2.1)](./atcoder/abc217/E.cpp) | `AtCoder` `*500` | Sep/17/2021 22:02 | 
+193 | [B - Maritozzo](https://atcoder.jp/contests/abc219/tasks/abc219_b) | [C++ (GCC 9.2.1)](./atcoder/abc219/B.cpp) | `AtCoder` `*200` | Sep/19/2021 23:47 | 
+192 | [B - Hills And Valleys](https://codeforces.com/contest/1467/problem/B) | [GNU C++14](./codeforces/1467/B.cpp) | `brute force` `implementation` `*1700` | Sep/18/2021 03:26 | 
+191 | [E - Sorting Queries](https://atcoder.jp/contests/abc217/tasks/abc217_e) | [C++ (GCC 9.2.1)](./atcoder/abc217/E.cpp) | `AtCoder` `*500` | Sep/17/2021 22:02 | 
+190 | [D - Pair of Balls](https://atcoder.jp/contests/abc216/tasks/abc216_d) | [C++ (GCC 9.2.1)](./atcoder/abc216/D.cpp) | `AtCoder` `*400` | Sep/17/2021 21:51 | 
 189 | [D1 - Two Hundred Twenty One (easy version)](https://codeforces.com/contest/1562/problem/D1) | [GNU C++14](./codeforces/1562/D1.cpp) | `data structures` `dp` `math` `*1700` | Sep/15/2021 04:02 | 
 188 | [B - Road Construction](https://codeforces.com/contest/330/problem/B) | [GNU C++14](./codeforces/330/B.cpp) | `constructive algorithms` `graphs` `*1300` | Sep/15/2021 02:55 | 
 187 | [C - Carrying Conundrum](https://codeforces.com/contest/1567/problem/C) | [GNU C++14](./codeforces/1567/C.cpp) | `bitmasks` `combinatorics` `dp` `math` `*1600` | Sep/15/2021 02:45 | 
