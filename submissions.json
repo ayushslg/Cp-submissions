@@ -3823,6 +3823,22 @@
     ],
     "timestamp": "Sep/19/2021 23:47"
   },
+  "AC26124841": {
+    "contest_id": "abc220",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc220\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Base K",
+    "problem_url": "https://atcoder.jp/contests/abc220/tasks/abc220_b",
+    "submission_id": "AC26124841",
+    "submission_url": "https://atcoder.jp/contests/abc220/submissions/26124841",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/26/2021 17:34"
+  },
   "AC26132212": {
     "contest_id": "abc220",
     "language": "C++ (GCC 9.2.1)",
