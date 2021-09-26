@@ -3823,6 +3823,22 @@
     ],
     "timestamp": "Sep/19/2021 23:47"
   },
+  "AC26132212": {
+    "contest_id": "abc220",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc220\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Long Sequence",
+    "problem_url": "https://atcoder.jp/contests/abc220/tasks/abc220_c",
+    "submission_id": "AC26132212",
+    "submission_url": "https://atcoder.jp/contests/abc220/submissions/26132212",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/26/2021 17:40"
+  },
   "AC26436082": {
     "contest_id": "abc222",
     "language": "C++ (GCC 9.2.1)",
