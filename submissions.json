@@ -5245,6 +5245,24 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF132181168": {
+    "contest_id": 1579,
+    "language": "GNU C++14",
+    "path": "codeforces\\1579\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Productive Meeting",
+    "problem_url": "https://codeforces.com/contest/1579/problem/D",
+    "submission_id": "CF132181168",
+    "submission_url": "https://codeforces.com/contest/1579/submission/132181168",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Oct/17/2021 10:38"
+  },
   "CF133361495": {
     "contest_id": 1602,
     "language": "GNU C++14",
