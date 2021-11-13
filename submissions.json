@@ -3823,6 +3823,22 @@
     ],
     "timestamp": "Sep/19/2021 23:47"
   },
+  "AC27224199": {
+    "contest_id": "abc227",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc227\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "ABC conjecture",
+    "problem_url": "https://atcoder.jp/contests/abc227/tasks/abc227_c",
+    "submission_id": "AC27224199",
+    "submission_url": "https://atcoder.jp/contests/abc227/submissions/27224199",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/13/2021 18:09"
+  },
   "AC27771308": {
     "contest_id": "arc130",
     "language": "C++ (GCC 9.2.1)",
