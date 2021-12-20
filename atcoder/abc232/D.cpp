@@ -3,6 +3,7 @@
 #define pb push_back
 #define ll long long int
 using namespace std;
+#define f(n) for(ll i=0;i<n;i++)
 #define rep(i,a,b) for(ll i=a;i<b;i++)
 #define input(arr,n) for(ll i1=0;i1<n;i1++ )cin>>arr[i1]
 #define endl "\n"
@@ -24,15 +25,19 @@ inline void solve()
     for (int i = 0; i < n; i++)
         cin >> s[i];
     int ans = 0;
-    vector<vector<int>>f(n + 1, vector<int>(m + 1, 0));
-    for (int i = n - 1; i >= 0; i--)
-        for (int j = m - 1; j >= 0; j--)
-        {
-            if (s[i][j] == '#')
-                continue;
-            f[i][j] = max(f[i][j + 1] + 1, f[i + 1][j] + 1);
-        }
-    cout << f[0][0];
+    function <void(int, int, int)> dfs = [&](int i, int j, int q )
+    {
+        if (i < 0 || j < 0 || i >= n || j >= m)
+            return;
+        if (s[i][j] == '#')
+            return;
+        ans = max(ans, q);
+        s[i][j] = '#';
+        dfs(i + 1, j, q + 1);
+        dfs(i, j + 1, q + 1);
+    };
+    dfs(0, 0, 1);
+    cout << ans;
 }
 int main()
 {
