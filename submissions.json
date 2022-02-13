@@ -3823,6 +3823,22 @@
     ],
     "timestamp": "Sep/19/2021 23:47"
   },
+  "AC29299036": {
+    "contest_id": "abc237",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc237\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "kasaka",
+    "problem_url": "https://atcoder.jp/contests/abc237/tasks/abc237_c",
+    "submission_id": "AC29299036",
+    "submission_url": "https://atcoder.jp/contests/abc237/submissions/29299036",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/13/2022 16:52"
+  },
   "AC29300839": {
     "contest_id": "abc237",
     "language": "C++ (GCC 9.2.1)",
