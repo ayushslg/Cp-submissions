@@ -3823,6 +3823,22 @@
     ],
     "timestamp": "Sep/19/2021 23:47"
   },
+  "AC29298856": {
+    "contest_id": "abc237",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc237\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Matrix Transposition",
+    "problem_url": "https://atcoder.jp/contests/abc237/tasks/abc237_b",
+    "submission_id": "AC29298856",
+    "submission_url": "https://atcoder.jp/contests/abc237/submissions/29298856",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/13/2022 16:48"
+  },
   "AC29299036": {
     "contest_id": "abc237",
     "language": "C++ (GCC 9.2.1)",
