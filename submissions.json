@@ -3823,6 +3823,22 @@
     ],
     "timestamp": "Sep/19/2021 23:47"
   },
+  "AC29300839": {
+    "contest_id": "abc237",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc237\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "LR insertion",
+    "problem_url": "https://atcoder.jp/contests/abc237/tasks/abc237_d",
+    "submission_id": "AC29300839",
+    "submission_url": "https://atcoder.jp/contests/abc237/submissions/29300839",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/13/2022 17:32"
+  },
   "AC31654893": {
     "contest_id": "abc251",
     "language": "C++ (GCC 9.2.1)",
