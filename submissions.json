@@ -5245,6 +5245,26 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF156675896": {
+    "contest_id": 1676,
+    "language": "GNU C++14",
+    "path": "codeforces\\1676\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Longest Strike",
+    "problem_url": "https://codeforces.com/contest/1676/problem/F",
+    "submission_id": "CF156675896",
+    "submission_url": "https://codeforces.com/contest/1676/submission/156675896",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "May/10/2022 20:49"
+  },
   "CF156713999": {
     "contest_id": 1676,
     "language": "GNU C++14",
