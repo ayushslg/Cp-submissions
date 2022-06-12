@@ -61,30 +61,8 @@ inline void solve()
     sort(red.begin(), red.end());
     sort(green.begin(), green.end());
     sort(blue.begin(), blue.end());
-    vector<vector<vector<ll>>> dp(r + 1, vector<vector<ll>>(g + 1, vector<ll>(b + 1, 0)));
-    //cout << find(red, green, blue, r - 1, g - 1, b - 1, dp) << endl;
-    for (int i = 0; i <= r; i++)
-    {
-        for (int j = 0; j <= g; j++)
-        {
-            for (int k = 0; k <= b; k++)
-            {
-                if (i && j)
-                {
-                    dp[i][j][k] = max(dp[i][j][k], red[i - 1] * green[j - 1] + dp[i - 1][j - 1][k]);
-                }
-                if (j && k)
-                {
-                    dp[i][j][k] = max(dp[i][j][k], blue[k - 1] * green[j - 1] + dp[i][j - 1][k - 1]);
-                }
-                if (i && k)
-                {
-                    dp[i][j][k] = max(dp[i][j][k], red[i - 1] * blue[k - 1] + dp[i - 1][j][k - 1]);
-                }
-            }
-        }
-    }
-    cout << dp[r][g][b] << endl;
+    vector<vector<vector<ll>>> dp(r, vector<vector<ll>>(g, vector<ll>(b, -1)));
+    cout << find(red, green, blue, r - 1, g - 1, b - 1, dp) << endl;
 }
 int main()
 {
