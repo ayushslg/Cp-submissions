@@ -5245,6 +5245,26 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF160676575": {
+    "contest_id": 1691,
+    "language": "GNU C++14",
+    "path": "codeforces\\1691\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum of Substrings",
+    "problem_url": "https://codeforces.com/contest/1691/problem/C",
+    "submission_id": "CF160676575",
+    "submission_url": "https://codeforces.com/contest/1691/submission/160676575",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Jun/15/2022 03:38"
+  },
   "CF161086975": {
     "contest_id": 1249,
     "language": "GNU C++14",
