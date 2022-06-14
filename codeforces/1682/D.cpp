@@ -32,21 +32,26 @@ inline void solve()
         return;
     }
     cout << "YES\n";
-    vector<int> ones;
-    for (int i = 0; i < n; i++) {
-        if (s[i] == '1') {
-            ones.push_back(i);
+    for (int q = 1; q < n; q++)
+    {
+        if (s[q - 1] == '1')
+        {
+            int i = (q + 1) % n;
+            while (i != q)
+            {
+                int j = i;
+                int prev = q;
+                while (j != q)
+                {
+                    cout << prev + 1 << " " << j + 1 << endl;
+                    prev = j;
+                    j = (j + 1) % n;
+                    if (s[prev] == '1')break;
+                }
+                i = j;
+            }
+            return;
         }
-    }
-
-    for (int i = 0; i < int(ones.size()); i++) {
-        for (int j = ones[i]; (j + 1) % n != ones[(i + 1) % ones.size()]; j++) {
-            cout << j % n + 1 << " " << (j + 1) % n + 1 << "\n";
-        }
-    }
-
-    for (int i = 1; i < int(ones.size()); i++) {
-        cout << (ones[0] + n - 1) % n + 1 << " " << ones[i] << "\n";
     }
 }
 int main()
