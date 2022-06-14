@@ -5245,6 +5245,25 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF160604568": {
+    "contest_id": 1692,
+    "language": "GNU C++14",
+    "path": "codeforces\\1692\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "2^Sort",
+    "problem_url": "https://codeforces.com/contest/1692/problem/G",
+    "submission_id": "CF160604568",
+    "submission_url": "https://codeforces.com/contest/1692/submission/160604568",
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jun/14/2022 21:13"
+  },
   "CF160631953": {
     "contest_id": 1692,
     "language": "GNU C++14",
