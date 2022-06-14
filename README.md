@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-434 | [C - Manipulating History](https://codeforces.com/contest/1688/problem/C) | [GNU C++14](./codeforces/1688/C.cpp) | `constructive algorithms` `greedy` `strings` `*1700` | Jun/25/2022 06:57 | 
-433 | [D - The Enchanted Forest](https://codeforces.com/contest/1688/problem/D) | [GNU C++14](./codeforces/1688/D.cpp) | `greedy` `implementation` `math` `*1600` | Jun/25/2022 05:49 | 
-432 | [B - Patchouli's Magical Talisman](https://codeforces.com/contest/1688/problem/B) | [GNU C++14](./codeforces/1688/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `sortings` `*800` | Jun/25/2022 05:33 | 
-431 | [A - Cirno's Perfect Bitmasks Classroom](https://codeforces.com/contest/1688/problem/A) | [GNU C++14](./codeforces/1688/A.cpp) | `bitmasks` `brute force` `*800` | Jun/25/2022 05:29 | 
-430 | [E - By Elevator or Stairs?](https://codeforces.com/contest/1249/problem/E) | [GNU C++14](./codeforces/1249/E.cpp) | `dp` `shortest paths` `*1700` | Jun/18/2022 21:15 | 
-429 | [C - Sum of Substrings](https://codeforces.com/contest/1691/problem/C) | [GNU C++14](./codeforces/1691/C.cpp) | `brute force` `constructive algorithms` `greedy` `math` `strings` `*1400` | Jun/15/2022 03:38 | 
-428 | [D - Circular Spanning Tree](https://codeforces.com/contest/1682/problem/D) | [GNU C++14](./codeforces/1682/D.cpp) | `constructive algorithms` `implementation` `trees` `*2000` | Jun/15/2022 03:26 | 
+435 | [C - Manipulating History](https://codeforces.com/contest/1688/problem/C) | [GNU C++14](./codeforces/1688/C.cpp) | `constructive algorithms` `greedy` `strings` `*1700` | Jun/25/2022 06:57 | 
+434 | [D - The Enchanted Forest](https://codeforces.com/contest/1688/problem/D) | [GNU C++14](./codeforces/1688/D.cpp) | `greedy` `implementation` `math` `*1600` | Jun/25/2022 05:49 | 
+433 | [B - Patchouli's Magical Talisman](https://codeforces.com/contest/1688/problem/B) | [GNU C++14](./codeforces/1688/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `sortings` `*800` | Jun/25/2022 05:33 | 
+432 | [A - Cirno's Perfect Bitmasks Classroom](https://codeforces.com/contest/1688/problem/A) | [GNU C++14](./codeforces/1688/A.cpp) | `bitmasks` `brute force` `*800` | Jun/25/2022 05:29 | 
+431 | [E - By Elevator or Stairs?](https://codeforces.com/contest/1249/problem/E) | [GNU C++14](./codeforces/1249/E.cpp) | `dp` `shortest paths` `*1700` | Jun/18/2022 21:15 | 
+430 | [C - Sum of Substrings](https://codeforces.com/contest/1691/problem/C) | [GNU C++14](./codeforces/1691/C.cpp) | `brute force` `constructive algorithms` `greedy` `math` `strings` `*1400` | Jun/15/2022 03:38 | 
+429 | [D - Circular Spanning Tree](https://codeforces.com/contest/1682/problem/D) | [GNU C++14](./codeforces/1682/D.cpp) | `constructive algorithms` `implementation` `trees` `*2000` | Jun/15/2022 03:26 | 
+428 | [H - Gambling](https://codeforces.com/contest/1692/problem/H) | [GNU C++14](./codeforces/1692/H.cpp) | `data structures` `dp` `greedy` `math` `*1700` | Jun/14/2022 21:52 | 
 427 | [B - Maritozzo](https://atcoder.jp/contests/abc219/tasks/abc219_b) | [C++ (GCC 9.2.1)](./atcoder/abc219/B.cpp) | `AtCoder` `*200` | Sep/19/2021 23:47 | 
 426 | [B - Hills And Valleys](https://codeforces.com/contest/1467/problem/B) | [GNU C++14](./codeforces/1467/B.cpp) | `brute force` `implementation` `*1700` | Sep/18/2021 03:26 | 
 425 | [E - Sorting Queries](https://atcoder.jp/contests/abc217/tasks/abc217_e) | [C++ (GCC 9.2.1)](./atcoder/abc217/E.cpp) | `AtCoder` `*500` | Sep/17/2021 22:02 | 
