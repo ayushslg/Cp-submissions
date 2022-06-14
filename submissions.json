@@ -5245,6 +5245,23 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF160572952": {
+    "contest_id": 1692,
+    "language": "GNU C++14",
+    "path": "codeforces\\1692\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Clock",
+    "problem_url": "https://codeforces.com/contest/1692/problem/D",
+    "submission_id": "CF160572952",
+    "submission_url": "https://codeforces.com/contest/1692/submission/160572952",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/14/2022 20:37"
+  },
   "CF160580107": {
     "contest_id": 1692,
     "language": "GNU C++14",
