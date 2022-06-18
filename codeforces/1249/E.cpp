@@ -45,23 +45,23 @@ inline void solve()
     vector<int> lift(n - 1);
     input(stair, n - 1);
     input(lift, n - 1);
-    vector<int>curr(2, 0), prev(2, 0);
-    prev[1] = c;
-    cout << 0 << " ";
+    vector<vector<int>>dp(n, vector<int>(3, 0));
+    dp[0][1] = c;
     for (int ind = 1; ind < n; ind++)
     {
         for (int state = 0; state < 2; state++)
         {
             int st = 1e8;
             if (state != 1)
-                st = stair[ind - 1] + prev[state];
+                st = stair[ind - 1] + dp[ind - 1][state];
             int lft = 1e8;
-            lft = min(c + lift[ind - 1] + prev[0], lift[ind - 1] + prev[1] );
-            curr[state] = min(lft, st);
+            lft = min(c + lift[ind - 1] + dp[ind - 1][0], lift[ind - 1] + dp[ind - 1][1] );
+            dp[ind][state] = min(lft, st);
         }
-        cout << min(curr[0], curr[1]) << " ";
-        prev = curr;
     }
+    cout << 0 << " ";
+    for (int i = 1; i < n; i++)
+        cout << min(dp[i][0], dp[i][1]) << " ";
 }
 int main()
 {
