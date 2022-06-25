@@ -5245,6 +5245,24 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF161684742": {
+    "contest_id": 1688,
+    "language": "GNU C++14",
+    "path": "codeforces\\1688\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Manipulating History",
+    "problem_url": "https://codeforces.com/contest/1688/problem/C",
+    "submission_id": "CF161684742",
+    "submission_url": "https://codeforces.com/contest/1688/submission/161684742",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jun/25/2022 06:57"
+  },
   "CF71782002": {
     "contest_id": 1311,
     "language": "GNU C++14",
