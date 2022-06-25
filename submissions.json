@@ -5245,6 +5245,24 @@
     ],
     "timestamp": "Sep/18/2021 03:26"
   },
+  "CF161682962": {
+    "contest_id": 1688,
+    "language": "GNU C++14",
+    "path": "codeforces\\1688\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Enchanted Forest",
+    "problem_url": "https://codeforces.com/contest/1688/problem/D",
+    "submission_id": "CF161682962",
+    "submission_url": "https://codeforces.com/contest/1688/submission/161682962",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jun/25/2022 05:49"
+  },
   "CF161684742": {
     "contest_id": 1688,
     "language": "GNU C++14",
